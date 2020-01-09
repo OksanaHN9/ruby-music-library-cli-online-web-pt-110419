@@ -1,5 +1,5 @@
 require "spec_helper"
-
+Class = "Song" 
 describe "Song" do
   let(:song) { Song.new("In the Aeroplane Over the Sea") }
 
